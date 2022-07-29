@@ -25,3 +25,4 @@ py manage.py runserver
 # Create superuser
 py manage.py createsuperuser 
 "# Maanshan_Courier_Management_System" 
+"# Maanshan_Courier_Management_System" 
